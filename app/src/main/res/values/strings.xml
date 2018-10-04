@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Namebook</string>
+    <string name="name">Enter a name</string>
+    <string name="phone">Enter a phone number</string>
+    <string name="email">Enter an email address</string>
+    <string name="message">Enter a short message</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="err_name">You have to enter a name</string>
+    <string name="err_save">File could not be saved</string>
+    <string name="msg_save">Data saved</string>
+    <string name="title_activity_show">ShowActivity</string>
+
+</resources>
